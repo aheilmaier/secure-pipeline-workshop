@@ -11,7 +11,7 @@ jobs:
   # 🚧 REPLACE THIS ENTIRE 'jobs:' SECTION WITH WORKSHOP CONTENT! 🚧
   # Copy from: workshop/pipeline_scan/{tool}/workflow.yml
   pipeline-scan:
-    name: Run zizmor 🌈
+    name: Run zizmor2 🌈
     runs-on: ubuntu-latest
     permissions:
       security-events: write
